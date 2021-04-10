@@ -1,16 +1,25 @@
+```javascript
+const Abraham = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Vue", "JQuery","PHP"],
+    askMeAbout: ["Web Dev", "Tech", "Latin Music", "Football Soccer", "Sing", "Coffe"],
+    technologies: {
+      backEnd: ["Node","PHP"],
+      frontEnd: ["Vue"],
+      databases: ["MySql"],
+      misc: ["HTML", "CSS","JQuery", "Medoo", "Less", "SASS"]
+    },
+    funFact: "I don't comment my code because if it was hard to write, then it should also be hard to read"
+};
+```
+
 ### Hi there 👋
 
-<!--
-**abraham1669/abraham1669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Here are some ideas to get you started:
+I'm a Software Engineer who is passionate about writing code, solving problems, automating stuff, and building for the Web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m currently learning  Vue JS.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abraham-pech) [Gmail](mailto:abraham.opp@gmail.com)
+
+Inspired from [hazemessam](https://github.com/hazemessam)
