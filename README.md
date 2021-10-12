@@ -1,11 +1,11 @@
 ```javascript
 const Abraham = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Vue", "JQuery","PHP"],
+    code: ["Javascript", "Vue","React","NextJS", "JQuery","PHP"],
     askMeAbout: ["Web Dev", "Tech", "Latin Music", "Football Soccer", "Sing", "Coffe"],
     technologies: {
       backEnd: ["Node","PHP"],
-      frontEnd: ["Vue"],
+      frontEnd: ["Vue","React", "NextJS"],
       databases: ["MySql"],
       misc: ["HTML", "CSS","JQuery", "Medoo", "Less", "SASS"]
     },
@@ -19,7 +19,7 @@ const Abraham = {
 
 I'm a Software Engineer who is passionate about writing code, solving problems, automating stuff, and building for the Web.
 
-- 📚 I’m currently learning  Vue JS.
+- 📚 I’m currently learning  Next JS.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abraham-pech) [Gmail](mailto:abraham.opp@gmail.com)
 
 Inspired from [hazemessam](https://github.com/hazemessam)
