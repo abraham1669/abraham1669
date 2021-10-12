@@ -1,16 +1,17 @@
 ```javascript
 const Abraham = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Vue","React","NextJS", "JQuery","PHP"],
-    askMeAbout: ["Web Dev", "Tech", "Latin Music", "Football Soccer", "Sing", "Coffe"],
-    technologies: {
-      backEnd: ["Node","PHP"],
-      frontEnd: ["Vue","React", "NextJS"],
-      databases: ["MySql"],
-      misc: ["HTML", "CSS","JQuery", "Medoo", "Less", "SASS"]
-    },
-    funFact: "I don't comment my code because if it was hard to write, then it should also be hard to read"
-};
+  pronouns: 'He' | 'Him',
+  code: ['Javascript', 'Vue', 'React', 'NextJS', 'JQuery', 'PHP'],
+  askMeAbout: ['Web Dev', 'Tech', 'Latin Music', 'Football Soccer', 'Sing', 'Coffe'],
+  technologies: {
+    backEnd: ['Node', 'PHP'],
+    frontEnd: ['Vue', 'React', 'NextJS'],
+    databases: ['MySql'],
+    misc: ['HTML', 'CSS', 'JQuery', 'Medoo', 'Less', 'SASS']
+  },
+  funFact:
+    "I don't comment my code because if it was hard to write, then it should also be hard to read"
+}
 ```
 
 ### Hi there 👋
@@ -19,7 +20,7 @@ const Abraham = {
 
 I'm a Software Engineer who is passionate about writing code, solving problems, automating stuff, and building for the Web.
 
-- 📚 I’m currently learning  Next JS.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abraham-pech) [Gmail](mailto:abraham.opp@gmail.com)
+- 📚 I’m currently learning Next JS.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abraham-pech) | [Gmail](mailto:abraham.opp@gmail.com)
 
 Inspired from [hazemessam](https://github.com/hazemessam)
